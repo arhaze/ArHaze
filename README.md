@@ -6,7 +6,6 @@ I'm Aries, a Web Developer from Davao City. Welcome to my GitHub profile!
 
 - 🌱 I’m currently learning to be a Back-end developer.
 - 📫 How to reach me: arhazemagumpara5@gmail.com.
-- 😄 Pronouns: He.
 - ⚡ Fun fact: I love cats.
 
 ## Technologies and Tools
@@ -22,6 +21,7 @@ I'm Aries, a Web Developer from Davao City. Welcome to my GitHub profile!
 - [Facebook](https://www.facebook.com/profile.php?id=100092555391486)
 - [Personal Website/Blog](arhaze.github.io)
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=arhaze&show_icons=true&theme=transparent)
+## GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=arhaze&show_icons=true&bg_color=00000000)
 
 Feel free to explore my repositories and reach out if you have any questions or if you'd like to collaborate on something exciting! 🚀

@@ -16,7 +16,7 @@ I'm Aries, a Web Developer from Davao City, Philippines. Welcome to my GitHub pr
 
 ## GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=arhaze&show_icons=true&bg_color=FFFFFF)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=arhaze&show_icons=true&bg_color=800080)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arhaze&layout=compact)
 
 Feel free to explore my repositories and reach out if you have any questions or if you'd like to collaborate on something exciting! 🚀

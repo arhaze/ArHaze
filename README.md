@@ -11,8 +11,8 @@ I'm Aries, a Web Developer from Davao City. Welcome to my GitHub profile!
 
 ## Technologies and Tools
 
-- **Languages: HTML/CSS/JAVASCRIPT/PHP.
-- **Frameworks and Libraries: BOOTSTRAP/REACT/LARAVEL.
+- **Languages:** HTML/CSS/JAVASCRIPT/PHP.
+- **Frameworks and Libraries:** BOOTSTRAP/REACT/LARAVEL.
 - **Tools:** VSCODE/XAMPP/.
 
 ## Connect with Me

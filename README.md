@@ -22,4 +22,6 @@ I'm Aries, a Web Developer from Davao City. Welcome to my GitHub profile!
 - [Facebook](https://www.facebook.com/profile.php?id=100092555391486)
 - [Personal Website/Blog](arhaze.github.io)
 
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=arhaze&show_icons=true&theme=radical)
+
 Feel free to explore my repositories and reach out if you have any questions or if you'd like to collaborate on something exciting! 🚀
